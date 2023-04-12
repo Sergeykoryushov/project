@@ -11,5 +11,6 @@ public class Main {
         }
         String name;
         String firstName;
+        String lastName;
     }
 }
