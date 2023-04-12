@@ -10,5 +10,6 @@ public class Main {
             System.out.println(i*5);
         }
         String name;
+        String firstName;
     }
 }
