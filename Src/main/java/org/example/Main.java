@@ -7,7 +7,7 @@ public class Main {
         System.out.println(LocalDateTime.now());
         for (int i = 0; i < 6; i++) {
             System.out.println(i);
-            System.out.println(i*2);
+            System.out.println(i*8);
         }
     }
 }
